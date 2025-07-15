@@ -42,6 +42,7 @@ This is your mission control for the data job market. It showcases key KPI like 
 
 ### Page 2: Job Title Drill Through
 ![alt text](https://github.com/shivshakti2804/Power-BI/blob/main/Data_Jobs_Around_The_World_Dashboard1/Images/Data_Jobs_Dashboard_Page2.jpg?raw=true)
+
 This is a deep dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work from home stats, top hiring platforms and top skills to gain.
 
 ## Conclusion
