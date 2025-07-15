@@ -1,5 +1,5 @@
 # Data Jobs Dashboard-Power BI
-https://github.com/shivshakti2804/Power-BI/edit/main/Data_Jobs_Around_The_World_Dashboard1/Images/Data_Jobs_Dashboard_Page1.jpg
+![Dashboard Page 1](https://github.com/shivshakti2804/Power-BI/edit/main/Data_Jobs_Around_The_World_Dashboard1/Images/Data_Jobs_Dashboard_Page1.jpg)
 
 ## Introduction
 This dashboard is created for Data Job seekers across the globe to target data jobs based on Job title, rating, salary and skill sets. This project provides a single easy to use platform to access all job market related information for Data Jobs.
@@ -38,7 +38,7 @@ To  create this dashboard we used below skills:
 ## Dashboard Overview
 
 ### Page 1: High Level Market View
-https://github.com/shivshakti2804/Power-BI/edit/main/Data_Jobs_Around_The_World_Dashboard1/Images/Data_Jobs_Dashboard_Page1.jpg
+![Dashboard Page 1](https://github.com/shivshakti2804/Power-BI/edit/main/Data_Jobs_Around_The_World_Dashboard1/Images/Data_Jobs_Dashboard_Page1.jpg)
 This is your mission control for the data job market. It showcases key KPI like total job count, median salaries, and top job titles to give you a quick understanding of what is happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
