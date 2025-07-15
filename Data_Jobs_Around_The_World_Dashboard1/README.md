@@ -38,6 +38,7 @@ To  create this dashboard we used below skills:
 
 ### Page 1: High Level Market View
 ![alt text](https://github.com/shivshakti2804/Power-BI/blob/main/Data_Jobs_Around_The_World_Dashboard1/Images/Data_Jobs_Dashboard_Page1.jpg?raw=true)
+
 This is your mission control for the data job market. It showcases key KPI like total job count, median salaries, and top job titles to give you a quick understanding of what is happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
