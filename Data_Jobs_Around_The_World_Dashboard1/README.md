@@ -1,6 +1,4 @@
 # Data Jobs Dashboard-Power BI
-![Dashboard Page 1](/Data_Jobs_Around_The_World_Dashboard/Images/Data_Jobs_Dashboard_Page1.jpg)
-
 https://github.com/shivshakti2804/Power-BI/edit/main/Data_Jobs_Around_The_World_Dashboard1/Images/Data_Jobs_Dashboard_Page1.jpg
 
 ## Introduction
